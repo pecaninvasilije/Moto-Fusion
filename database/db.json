@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "password1",
+      "dateOfBirth": "1990-01-01"
+    },
+    {
+      "username": "user2",
+      "email": "user2@example.com",
+      "password": "password2",
+      "dateOfBirth": "1992-02-02"
+    }
+  ],
+  "news": [
+    {
+      "title": "German Stuntweek",
+      "content": "Save your tickets for the GSW!",
+      "imageUrl": "gsw_image_url",
+      "date": "2024-07-10T00:00:00.000Z"
+    },
+    {
+      "title": "New KTM Model",
+      "content": "The new 2024 KTM EXC/-F",
+      "imageUrl": "ktm_image_url",
+      "date": "2024-07-10T00:00:00.000Z"
+    }
+  ]
+}
