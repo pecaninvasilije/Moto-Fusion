@@ -4,13 +4,15 @@
       "username": "user1",
       "email": "user1@example.com",
       "password": "password1",
-      "dateOfBirth": "1990-01-01"
+      "dateOfBirth": "1990-01-01",
+      "avatar": null
     },
     {
       "username": "user2",
       "email": "user2@example.com",
       "password": "password2",
-      "dateOfBirth": "1992-02-02"
+      "dateOfBirth": "1992-02-02",
+      "avatar": "niki_face.png"
     }
   ],
   "news": [
@@ -25,6 +27,46 @@
       "content": "The new 2024 KTM EXC/-F",
       "imageUrl": "ktm_image_url",
       "date": "2024-07-10T00:00:00.000Z"
+    }
+  ],
+  "spots": [
+    {
+      "address": "Herzgogenburger Straße 45c",
+      "postal_city": "3100 St. Pölten"
+    },
+    {
+      "address": "Industriezone Burgerfeld 5",
+      "postal_city": "3150 Wilhelmsburg"
+    }
+  ],
+  "events": [
+    {
+      "event_title": "German Stuntweek - GSW",
+      "where": "Flugplatz Allstedt",
+      "date_from": "2024-07-08T00:00:00.000Z",
+      "date_to": "2024-07-14T00:00:00.000Z",
+      "duration_days": "7",
+      "more_information": "https://www.german-stuntweek.de/"
+    }
+  ],
+  "mechanics": [
+    {
+      "mechanics_name": "Ossi Moto HandelsgmbH & Co KG",
+      "address": "Rosinagasse 7",
+      "postal_city": "1150 Wien",
+      "phone_number": "+43 1 8958384"
+    }
+  ],
+  "messages": [
+    {
+      "username": "user1",
+      "content": "Hello, this is user1!",
+      "timestamp": "2024-07-10T10:00:00.000Z"
+    },
+    {
+      "username": "user2",
+      "content": "Hi user1, this is user2!",
+      "timestamp": "2024-07-10T10:05:00.000Z"
     }
   ]
 }
